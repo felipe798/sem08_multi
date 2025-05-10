@@ -1,3 +1,4 @@
+```dart
 import 'package:flutter/material.dart';
 import 'dart:ui';
 
@@ -1153,3 +1154,4 @@ final List<FAQItem> faqList = [
     answer: 'Sí, aceptamos devoluciones dentro de los primeros 30 días posteriores a la compra. El producto debe estar en su empaque original y en perfectas condiciones. Los gastos de envío para devoluciones corren por cuenta del cliente, excepto en casos de productos defectuosos.',
   ),
 ];
+```
